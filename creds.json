@@ -1,0 +1,6 @@
+{
+    "user": "yourusernamehere",
+    "host": "localhost",
+    "password": "yourpasswordhere",
+    "port": 5432
+}
